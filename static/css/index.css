@@ -1,0 +1,18 @@
+html, body {
+	height: 100%;
+	 padding: 50px 30px 50px 80px;
+}
+
+h1  {
+    color: #000;
+}
+
+.page-header {
+    height: 60px;
+    background-color: white;
+}
+
+footer {
+	  text-align: center;
+
+}
